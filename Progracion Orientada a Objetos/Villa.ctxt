@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Villa
+comment1.params=poblador
+comment1.target=void\ addPoblador(Poblador)
+comment2.params=
+comment2.target=int\ getCantidadPobladores()
+comment3.params=
+comment3.target=java.util.List\ getPobladores()
+comment4.params=nombre
+comment4.target=Poblador\ buscarPoblador(java.lang.String)
+numComments=5

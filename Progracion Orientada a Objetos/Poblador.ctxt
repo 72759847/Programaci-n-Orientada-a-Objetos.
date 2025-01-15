@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Poblador
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Poblador\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ parqueFrecuentado
+comment1.target=Poblador(java.lang.String,\ Parque)
+comment2.params=
+comment2.target=java.lang.String\ presentarse()
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=
+comment4.target=Parque\ getParqueFrecuentado()
+numComments=5
